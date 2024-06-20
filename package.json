@@ -1,0 +1,22 @@
+{
+  "name": "magento",
+  "version": "1.0.0",
+  "description": "magento selenium project for automation learning purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andriraymond/selenium.git"
+  },
+  "author": "andriraymond",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andriraymond/selenium/issues"
+  },
+  "homepage": "https://github.com/andriraymond/selenium#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.21.0"
+  }
+}
